@@ -1,0 +1,81 @@
+    1  sudo
+    2  pwd
+    3  ll
+    4  exit
+    5  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    6  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    7  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    8  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    9  brew update
+   10  brew install oh-my-zsh
+   11  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+   12  sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+   13  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+   14  rm -rf /usr/local/Caskroom
+   15  sudo rm -rf /usr/local/Caskroom
+   16  sudo rm -rf /usr/local/Cellar
+   17  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+   18  brew help
+   19  brew install git
+   20  wget
+   21  brew install wget
+   22  ll
+   23  history
+   24  exit
+   25  brew install git
+   26  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+   27  exit
+   28  mkdir CISC_3140
+   29  echo "Hello world" > CISC_3140/hello.txt
+   30  cd CISC_3140
+   31  git init
+   32  git remote add origin https://github.com/Adam-Pv/Hello.git
+   33  git commit -m "First
+   34  git commit -m "First\n"
+   35  git add *
+   36  git commit -m "First\n\n"
+   37  exit
+   38  cd CISC_3140
+   39  ll
+   40  rm hello.txt
+   41  cd ../
+   42  rm -rf CISC_3140
+   43  exit
+   44  mkdir CISC_3410
+   45  mkdir CISC_3410/Assignment_1
+   46  echo "Hello world > CISC_3410/Assignment_1/hello.txt\n"
+   47  cd CISC_3410/Assignment_1
+   48  git init
+   49  git add *
+   50  ll
+   51  echo "Hello world >> hello.txt\n"
+   52  ll
+   53  sudo reboot now
+   54  ll
+   55  vim test.txt
+   56  git add test.txt
+   57  git commit -m "first commit"
+   58  git remote add origin https://github.com/Adam-Pv/Hello.git
+   59  git push -u origin master
+   60  exit
+   61  rm -rf CISC_3410/
+   62  exit
+   63  mkdir CISC_3140
+   64  mkdir CISC_3140/Assignment_1
+   65  cd CISC_3140/Assignment_1
+   66  echo "Hello world >> test.txt\n"
+   67  ll
+   68  exit
+   69  mkdir CISC_3140
+   70  rm -rf CISC_3140
+   71  exit
+   72  mkdir CISC_3140
+   73  mkdir CISC_3140/Assignment_1
+   74  cd CISC_3140/Assignment_1
+   75  echo "Hello world" > hello.txt
+   76  git init
+   77  git add *
+   78  git commit -m "First commit\n"
+   79  git remote add origin https://github.com/Adam-Pv/Hello.git
+   80  git push -u origin master
+   81  history
